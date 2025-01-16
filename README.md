@@ -6,7 +6,7 @@ Click for the video demo.
 [![London Bridge is coming down](img/cover.jpg "video")](https://youtu.be/oOds\_DIJLjQ)
 ## 1.Datasets
 We collected seven sequences, comprising three indoor and four outdoor scenes. These sequences included challenging visual scenarios. such as featureless environments, frequent occlusions, abrupt lighting changes, overexposure, dynamic objects, and large-scale scenes. For indoor sequences, we utilized a motion capture system to acquire ground truth poses with millimeter-level accuracy. For outdoor sequences, Real-Time Kinematic (RTK) technology was employed to obtain ground truth trajectories with centimeter-level precision.
-
+![London Bridge is coming down](img/a.jpg "sequence_a")
 ### 1.1Topics
 ```cpp
 Stereostopic: /camera/infra1/image_rect_raw 15Hz,
